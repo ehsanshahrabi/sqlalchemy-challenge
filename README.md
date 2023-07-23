@@ -9,6 +9,7 @@ Hawaii Climate Analysis is a Python-based climate study tool that provides users
 This Jupyter notebook contains an exploratory analysis of the climate in Hawaii. It includes:
 
 The most recent 12 months of precipitation data, plotted as a function of time.
+
 ![Screenshot 2023-07-22 152749](https://github.com/ehsanshahrabi/sqlalchemy-challenge/assets/124327258/9810fde5-8011-4a9d-9be7-b48759b6bf32)
 
 Summary statistics for precipitation data.
@@ -18,7 +19,9 @@ The total number of stations in the dataset.
 The most active weather stations, and the respective number of observations.
 
 Temperature observations for the most active station, over the last 12 months, presented as a histogram.
+
 ![Screenshot 2023-07-22 152807](https://github.com/ehsanshahrabi/sqlalchemy-challenge/assets/124327258/2bc335af-ea15-44d0-b872-060a930edbd9)
+
 
 ### Climate API - Flask Application (app.py)
 The Flask application serves as a climate data API with various endpoints:
